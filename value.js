@@ -6,8 +6,6 @@ const person = {
     married: true,
     favPlaces: ['dhaka', 'chittagong', 'cox bazar'],
 
-}
-// console.log(person);
-console.log(person.profession);
-console.log(person['salary']);
-console.log(person['married'])
+};
+
+console.log(person);
